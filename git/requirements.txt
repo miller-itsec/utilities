@@ -1,0 +1,16 @@
+#Core dependencies for Git analysis and data processing
+GitPython>=3.1.0
+python-dateutil>=2.8.0
+PyYAML>=5.0
+pandas>=1.3.0
+
+#For console output formatting (analyzer)
+tabulate>=0.8.0
+
+#For progress bars (analyzer)
+tqdm>=4.60.0
+
+#For HTML report generation and visualization (visualizer)
+plotly>=5.0.0
+Jinja2>=3.0.0
+kaleido>=0.2.1
